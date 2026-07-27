@@ -5,6 +5,11 @@ Sistema conversacional de Recursos Humanos para **PATITO S.A.** que combina múl
 El sistema no responde de forma genérica: cada agente consulta **únicamente su propia base documental** (Chroma + embeddings de Gemini), evitando alucinaciones y garantizando respuestas trazables.
 
 ---
+## Intregrantes:
+- Arevalo Monica
+- Lopez Wladimir
+- Muyulema Karla
+---
 
 ## Características principales
 
@@ -108,7 +113,8 @@ Crea la carpeta `5_RRHH/` junto al notebook y coloca dentro los 3 documentos `.t
 Abre `PROYECTO-RRHH.ipynb` y ejecuta las celdas en orden (Kernel → Restart & Run All). La última celda lanza la interfaz de Gradio.
 
 ---
-
+## Link Video Proyecto RRHH: https://youtu.be/0TB_wsTxQtk
+---
 ## Agentes disponibles
 
 | Agente | Función |
@@ -136,3 +142,5 @@ Abre `PROYECTO-RRHH.ipynb` y ejecuta las celdas en orden (Kernel → Restart & R
 Este proyecto es un caso de estudio académico. Ajusta esta sección con la licencia que prefieras (MIT, Apache 2.0, etc.).
 
 ---
+
+
