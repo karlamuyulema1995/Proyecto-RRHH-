@@ -1,0 +1,129 @@
+
+==================================================
+ID: SOL-65F02E29
+
+Fecha registro:
+2026-07-26 18:10:56
+
+Tipo de solicitud:
+Inscripción de dependiente
+
+Colaborador:
+Karen caiza
+
+Detalle:
+
+Dependiente: Eduardo loma
+Vínculo: PAREJA
+Documentos: 
+
+==================================================
+
+
+==================================================
+ID: SOL-BD2D1BBE
+
+Fecha registro:
+2026-07-26 18:11:33
+
+Tipo de solicitud:
+Vacaciones
+
+Colaborador:
+Eduardo Loma
+
+Detalle:
+
+Fecha inicio: 11 de agosto de 2026
+Fecha fin: 15 de agosto de 2026
+Número de días: 5 días hábiles
+Jefe que aprueba: Cecilia yunga
+
+==================================================
+
+
+==================================================
+ID: SOL-CA4ECFF8
+
+Fecha registro:
+2026-07-26 18:13:52
+
+Tipo de solicitud:
+Vacaciones
+
+Colaborador:
+PATRICIO RAMIRO JARAMILLO ALVEAR
+
+Detalle:
+
+Fecha inicio: 11 de agosto de 2026
+Fecha fin: 15 de agosto de 2026
+Número de días: 5
+Jefe que aprueba: Carlos Pérez
+
+==================================================
+
+
+==================================================
+ID: SOL-BFDC41DE
+
+Fecha registro:
+2026-07-26 18:13:52
+
+Tipo de solicitud:
+Inscripción de dependiente
+
+Colaborador:
+PATRICIO RAMIRO JARAMILLO ALVEAR
+
+Detalle:
+
+Dependiente: Karen Mora
+Vínculo: PAREJA
+Documentos: 
+
+==================================================
+
+
+==================================================
+ID: SOL-FA42F1D9
+
+Fecha registro:
+2026-07-26 19:01:12
+
+Tipo de solicitud:
+Vacaciones
+
+Colaborador:
+STEVEN WLADIMIR LOPEZ GUAYGUACUNDO
+
+Detalle:
+
+Fecha inicio: 11 de agosto de 2026
+Fecha fin: 15 de agosto de 2026
+Número de días: 5 días hábiles
+Jefe que aprueba: Carlos Pérez
+
+==================================================
+
+
+==================================================
+ID: SOL-70D838B9
+
+Fecha registro:
+2026-07-26 19:01:12
+
+Tipo de solicitud:
+Inscripción de dependiente
+
+Colaborador:
+STEVEN WLADIMIR LOPEZ GUAYGUACUNDO
+
+Detalle:
+
+Dependiente: Anahi Gomez
+Vínculo: PAREJA
+Documentos: 
+
+==================================================
+
